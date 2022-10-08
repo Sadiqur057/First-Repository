@@ -19,5 +19,8 @@ Git pull:
 git pull origin master
 
 
+git rebase:
+git pull --rebase
+
 
 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
